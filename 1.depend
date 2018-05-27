@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1519315517 source:c:\users\student\desktop\program1\1\untitled1.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1519762956 source:c:\users\wiklos1\desktop\zajecia1\program1\1\untitled1.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1520695164 source:c:\users\wiklos1\desktop\projekty\c+++_projekty\!zajecia projektowanie gier\zajecia1\program1\1\untitled1.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	<iostream>
+	<fstream>
+
+1527173708 source:c:\users\wiklos1\desktop\projekty\c+++_projekty\!zajecia projektowanie gier\zajecia1\program1\snake\untitled1.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
+1527175626 source:c:\users\wiklos1\desktop\projekty\c+++_projekty\!zajecia projektowanie gier\zajecia1\program1\muucha\untitled1.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
