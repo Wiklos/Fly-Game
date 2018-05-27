@@ -10,10 +10,10 @@ Left, Right - Controls
 Esc - Restart
 
 ### Collect yellow dots 
-https://raw.githubusercontent.com/Wiklos/Fly-Game/master/png/1.png
+![alt text](https://raw.githubusercontent.com/Wiklos/Fly-Game/master/png/1.png)
 
 ### Avoid spinning gray dots
-https://raw.githubusercontent.com/Wiklos/Fly-Game/master/png/2.png
+![alt text](https://raw.githubusercontent.com/Wiklos/Fly-Game/master/png/2.png)
 
 ### Survive as long as you can!
-https://raw.githubusercontent.com/Wiklos/Fly-Game/master/png/3.png
+![alt text](https://raw.githubusercontent.com/Wiklos/Fly-Game/master/png/3.png)
