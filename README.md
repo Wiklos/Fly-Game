@@ -6,7 +6,9 @@ Run game with game.exe
 
 Controls:
 Space - Start game
+
 Left, Right - Controls
+
 Esc - Restart
 
 ### Collect yellow dots 
